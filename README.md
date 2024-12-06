@@ -14,11 +14,6 @@ Un gestionnaire de tâches interactif et dynamique permettant de créer plusieur
 - **Persistance des données** : Les tableaux et les tâches (avec leurs statuts) sont sauvegardés dans le navigateur grâce à `localStorage`.
 - **Interface responsive** : Les tableaux sont alignés horizontalement et s'adaptent aux différentes tailles d'écran.
 
-## Démo
-
-Ajoutez une capture d’écran ou un GIF montrant votre projet ici.
-
----
 
 ## Installation
 
@@ -35,3 +30,8 @@ Ajoutez une capture d’écran ou un GIF montrant votre projet ici.
    ```bash
    cd todo-list-manager
 3. Ouvrez le fichier index.html dans votre navigateur.
+
+
+### Licence
+
+Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
