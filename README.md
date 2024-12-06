@@ -28,7 +28,7 @@ An interactive and dynamic task manager for creating multiple boards (or lists),
    git clone https://github.com/Arkoter/ToDoList.git
 2. Navigate to the project folder:
    ```bash
-   cd todo-list-manager
+   cd ToDoList
 3. Open the index.html file in your browser.
 
 
