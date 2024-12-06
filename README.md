@@ -15,7 +15,7 @@ An interactive and dynamic task manager for creating multiple boards (or lists),
 - **Responsive interface**: The tables are aligned horizontally and adapt to different screen sizes.
 
 
-## Facility
+## Installation
 
 ### Prerequisites
 
@@ -35,3 +35,8 @@ An interactive and dynamic task manager for creating multiple boards (or lists),
 ## License
 
 This project is under the MIT license. See the LICENSE file for more information.
+
+
+## Author
+
+-@Arkoter
