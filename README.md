@@ -32,6 +32,6 @@ Un gestionnaire de tâches interactif et dynamique permettant de créer plusieur
 3. Ouvrez le fichier index.html dans votre navigateur.
 
 
-### Licence
+## Licence
 
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d'informations.
