@@ -39,4 +39,4 @@ This project is under the MIT license. See the LICENSE file for more information
 
 ## Author
 
--@Arkoter
+- @Arkoter
