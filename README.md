@@ -1,5 +1,3 @@
-# Création du fichier README.md avec le contenu généré
-readme_content = """
 # To-Do List Manager
 
 Un gestionnaire de tâches interactif et dynamique permettant de créer plusieurs tableaux (ou listes), d’ajouter des tâches avec des statuts colorés, et de sauvegarder toutes les données localement dans le navigateur à l’aide de `localStorage`.
@@ -32,4 +30,8 @@ Ajoutez une capture d’écran ou un GIF montrant votre projet ici.
 
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/<your-username>/todo-list-manager.git
+   git clone https://github.com/Arkoter/ToDoList.git
+2. Accédez au dossier du projet :
+   ```bash
+   cd todo-list-manager
+3. Ouvrez le fichier index.html dans votre navigateur.
