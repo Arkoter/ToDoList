@@ -9,7 +9,15 @@
 <body>
 <div class="container">
     <h1>To-Do List Manager</h1>
-    <button id="createTableButton">+ Create New Table</button>
+    <div class="controls">
+        <button id="createTableButton">+ Create New Table</button>
+        <input type="text" id="searchInput" placeholder="Search tasks...">
+    </div>
+    <div class="theme-switcher">
+        <span>Theme:</span>
+        <button id="lightThemeButton">Light</button>
+        <button id="darkThemeButton">Dark</button>
+    </div>
     <div id="tablesContainer"></div>
 </div>
 <script src="script.js"></script>
